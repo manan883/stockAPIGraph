@@ -2,19 +2,11 @@
 
 ## Tools used:
 
-###### API: 
+## API:
+	 Polygon RESTAPICLIENT
 
-Polygon 
-
-RESTAPICLIENT
-
-###### Libraries: 
-
-datetime 
-
-pyplot 
-
-dateutil
+## Libraries: 
+	Datetime Pyplot Dateutil
 
 ## How does this project work:
 
