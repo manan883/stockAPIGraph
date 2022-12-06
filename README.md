@@ -6,7 +6,7 @@ API: Polygon, RESTAPICLIENT
 
 Libraries: datetime, pyplot, dateutil
 
-How does this project work:
+## How does this project work:
 
 	The program takes in a user input and asks them to enter a stock symbol listed in the NYSE
 
@@ -14,7 +14,7 @@ How does this project work:
 
 	The program then loops back and asks the user if they want to chart another stock or exit
 
-Things to potentially improve:
+## Things to potentially improve:
 
 	allow user to make a custom date range
 
